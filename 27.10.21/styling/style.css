@@ -1,0 +1,58 @@
+body{
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color:darkblue;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+   
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.container1{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+}
+.c1{
+    width: 70%;
+}
+.c2{
+    width: 30%;
+}
+.container1 h1{
+margin-right: 50%;
+}
+.container1 button{
+    align-items: center;
+}
+.container2, .container3 {
+    border: navy;
+    border-width: 2px ;
+    border-style: dotted;
+    
+}
+
+.container3 {
+    margin-top:35px;
+}
+.bright{
+    color: orange;
+    background-color: gold;
+}
